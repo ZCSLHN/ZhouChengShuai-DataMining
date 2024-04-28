@@ -30,4 +30,4 @@
 
 6、将更改推送到远程仓库
 
-`git push origin mani`
+`git push origin main`
