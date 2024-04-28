@@ -1,7 +1,7 @@
 # ZhouChengShuai-DataMining
 
 ## 创建一个仓库
-在Home页左上角点击New，命名为ZhouChengShuai-DataMining，并勾选Add a READNE file
+在Home页左上角点击New，命名为ZhouChengShuai-DataMining，并勾选Add a README file
 
 ## 上传ppt
 ### 方法一
