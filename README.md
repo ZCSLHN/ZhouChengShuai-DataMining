@@ -26,7 +26,7 @@
 
 5、使用 git commit 命令将更改提交到本地仓库
 
-`git commit -m "Add 多智能体强化学习 (1).pptx"
+`git commit -m "Add 多智能体强化学习 (1).pptx"`
 
 6、将更改推送到远程仓库
 
